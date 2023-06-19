@@ -1,0 +1,8 @@
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\Factory Method\bin\Debug\Factory Method.exe.config
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\Factory Method\bin\Debug\Factory Method.exe
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\Factory Method\bin\Debug\Factory Method.pdb
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\Factory Method\obj\Debug\Factory Method.csproj.AssemblyReference.cache
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\Factory Method\obj\Debug\Factory Method.csproj.SuggestedBindingRedirects.cache
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\Factory Method\obj\Debug\Factory Method.csproj.CoreCompileInputs.cache
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\Factory Method\obj\Debug\Factory Method.exe
+C:\Users\aguil\OneDrive\Documentos\Sibaja\Tesis\Factory Method\obj\Debug\Factory Method.pdb
